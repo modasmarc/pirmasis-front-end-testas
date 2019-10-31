@@ -12,8 +12,11 @@ word-break: break-all;
         background-color: red;
     }
     h1 {
+        display: inline-block;
 
     }
     p {
+        display: inline-block;
+        
         
     }
