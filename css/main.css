@@ -9,10 +9,11 @@ word-break: break-all;
 }
 
     div {
+        display: inline-block;
         background-color: red;
         width: 1200px;
-        margin-top: 50px;
-        text-align: center;
+        height: auto;
+        border-radius: 50px;
 
     }
         h1 {
@@ -22,6 +23,9 @@ word-break: break-all;
         }
         p {
         display: inline-block;
+        font-size:50px;
+        color:blue;
+        font-family:courier;
         padding: 30px;
         
         
