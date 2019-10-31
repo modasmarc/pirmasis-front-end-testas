@@ -10,13 +10,19 @@ word-break: break-all;
 
     div {
         background-color: red;
-    }
-    h1 {
-        display: inline-block;
+        width: 1200px;
+        margin-top: 50px;
+        text-align: center;
 
     }
-    p {
+        h1 {
         display: inline-block;
+        width: 100%;
+
+        }
+        p {
+        display: inline-block;
+        padding: 30px;
         
         
-    }
+        }
